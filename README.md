@@ -1,2 +1,1 @@
-# ud989-pizzamvo
-Udacity MVO Pizza app
+MVO Pizza app
